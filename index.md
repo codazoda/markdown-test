@@ -17,6 +17,7 @@ Here are some answers about my questions above.
 
 - [About](about) - Linked to `about`
 - [About](about.md) - Linked to `about.md`
+- [More](more) - Linked to `more` directory
 
 ## Automatic HTML
 
