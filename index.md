@@ -1,4 +1,4 @@
-# Markdown Test
+# Readme
 
 This is a markdown test of Github. I'm wondering if I can just create a directory of markdown files, turn on Github hosting, and have it automatically convert those to HTML and host them (no Jekyl or anything else needed).
 
