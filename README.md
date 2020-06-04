@@ -19,7 +19,11 @@ Yes, Github automatically converts markdown files to HTML now. At the top of the
 
 ## Index Files
 
-For my first test, I used the filename `readme.md`. That worked.
+The following files will work as index filenames.
+
+- index.md
+- readme.md
+- README.md
 
 ## 
 
