@@ -15,7 +15,8 @@ Here are some answers about my questions above.
 
 ## Index
 
-- [About](about)
+- [About](about) - Linked to `about`
+- [About](about.md) - Linked to `about.md`
 
 ## Automatic HTML
 
@@ -32,6 +33,19 @@ The following files will work as index filenames.
 - README.md
 
 On a Mac you can't have both a `readme.md` and `README.md` in the same folder so there is no way to check which gets priority. The `index.md`, however, takes priority over both `readme.md` and `README.md` filenames.
+
+## Links
+
+If you link to an `.md` file, it will automatically.
+
+Here are several options for linking to internal pages.
+
+- Link to the md file (`about.md`)
+- Link to a single word (`about`)
+- Link to a directory (`more`)
+
+If you link to `about` then it will appear in the uri as `yourdomain/about` but will display the html conversion version of the `about.md` file.
+
 
 ## References
 
