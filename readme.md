@@ -4,8 +4,9 @@ This is a markdown test of Github. I'm wondering if I can just create a director
 
 I've got a few questions.
 
-    1) Will md files be converted to HTML automatically?
-    2) Will gh serve readme.md, README.md, and index.md?
-    3) What order will gh serve those files?
+1) Will md files be converted to HTML automatically?
+2) Will gh serve readme.md, README.md, and index.md?
+3) What order will gh serve those files?
+4) How long does it take for gh-pages to generate?
 
 That's about it. I think I already know how directories will work, etc.
