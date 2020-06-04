@@ -15,7 +15,7 @@ Here are some answers about my questions above.
 
 ## Index
 
-- [About](about.md)
+- [About](about)
 
 ## Automatic HTML
 
