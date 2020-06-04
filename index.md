@@ -13,6 +13,10 @@ That's about it. I think I already know how directories will work, etc.
 
 Here are some answers about my questions above.
 
+## Index
+
+- [About](about.md)
+
 ## Automatic HTML
 
 Github automatically converts markdown files to HTML. At the top of the page it puts a "title" with the name of the repo. That title links back to your home page. You can probably change this name with a yaml file or something.
