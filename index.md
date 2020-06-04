@@ -50,6 +50,8 @@ If you link to `about` then it will appear in the uri as `yourdomain/about` but 
 ## Observations
 
 - Adding `name: Whatever` to the `_config.yaml` causes the site name not to show up at the top and link back
+- Adding `title: Watever` to the `_config.yaml` brings back the site name and it's link to the index
+- Adding `url: https://example.com` makes that the title link
 
 ## References
 
