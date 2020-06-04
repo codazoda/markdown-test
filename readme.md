@@ -10,3 +10,16 @@ I've got a few questions.
 4) How long does it take for gh-pages to generate?
 
 That's about it. I think I already know how directories will work, etc.
+
+Here are some answers about my questions above.
+
+## Automatic HTML
+
+Yes, Github automatically converts markdown files to HTML now. At the top of the page it puts a "title" with the name of the repo (in the same case). You can probably change this with yaml files or something, but that works for now. That title links back to your home page.
+
+## Index Files
+
+For my first test, I used the filename `readme.md`. That worked.
+
+## 
+
