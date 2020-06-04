@@ -21,7 +21,7 @@ Here are some answers about my questions above.
 
 ## Automatic HTML
 
-Github automatically converts markdown files to HTML. At the top of the page it puts a "title" with the name of the repo. That title links back to your home page. You can probably change this name with a yaml file or something.
+Github automatically converts markdown files to HTML. At the top of the page it puts a "title" with the name of the repo. That title links back to your home page. You can change this with a `_config.yaml` file.
 
 Github uses Jekyll, behind the scenes, for this conversion. The [Jekyll Documentation](1) should provide information on how to configure things.
 
@@ -34,6 +34,8 @@ The following files will work as index filenames.
 - README.md
 
 On a Mac you can't have both a `readme.md` and `README.md` in the same folder so there is no way to check which gets priority. The `index.md`, however, takes priority over both `readme.md` and `README.md` filenames.
+
+The `readme.md` file takes precedence on Github, which will allow you to write a separate readme for your Github audience than for your web audience.
 
 ## Links
 
