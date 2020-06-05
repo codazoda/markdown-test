@@ -49,6 +49,10 @@ Here are several options for linking to internal pages.
 
 If you link to `about` then it will appear in the uri as `yourdomain/about` but will display the html conversion version of the `about.md` file.
 
+## Includes
+
+You can put something like `{% include footer.html %}` in your markdown files to include the file `_includes/footer.html`. This works to include html and markdown files.
+
 ## Observations
 
 - Adding `name: Whatever` to the `_config.yaml` causes the site name not to show up at the top and link back
