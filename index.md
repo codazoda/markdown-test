@@ -57,7 +57,7 @@ You can add Google Analytics to your pages by simply adding a line like the foll
 
 ## Includes
 
-You can put something like `{% include footer.html %}` in your markdown files to include the file `_includes/footer.html`. This works to include html and markdown files.
+You can put something like `{&#37; include footer.html &#37;}` in your markdown files to include the file `_includes/footer.html`. This works to include html and markdown files.
 
 ## Observations
 
