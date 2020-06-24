@@ -49,6 +49,12 @@ Here are several options for linking to internal pages.
 
 If you link to `about` then it will appear in the uri as `yourdomain/about` but will display the html conversion version of the `about.md` file.
 
+## Google Analytics
+
+You can add Google Analytics to your pages by simply adding a line like the following to your _config.yml file.
+
+`google_analytics: UA-xxxxxxx-xx`
+
 ## Observations
 
 - Adding `name: Whatever` to the `_config.yaml` causes the site name not to show up at the top and link back
