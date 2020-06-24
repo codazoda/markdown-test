@@ -55,6 +55,10 @@ You can add Google Analytics to your pages by simply adding a line like the foll
 
 `google_analytics: UA-xxxxxxx-xx`
 
+## Includes
+
+You can put something like `{% include footer.html %}` in your markdown files to include the file `_includes/footer.html`. This works to include html and markdown files.
+
 ## Observations
 
 - Adding `name: Whatever` to the `_config.yaml` causes the site name not to show up at the top and link back
